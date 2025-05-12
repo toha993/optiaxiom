@@ -8,6 +8,7 @@ const config: StorybookConfig = {
     "storybook-addon-test-codegen",
     "@storybook/addon-a11y",
     "@storybook/addon-designs",
+    "storybook-addon-test-codegen",
   ],
   core: {
     disableTelemetry: true,
